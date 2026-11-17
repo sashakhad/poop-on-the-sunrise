@@ -1,8 +1,24 @@
 {
-  "title": "Untitled album",
+  "title": "Poop on the Sunrise",
   "artist": "",
-  "genre": "",
-  "rule": "",
-  "sets": [{ "id": "v1", "name": "Bubu" }],
-  "tracks": []
+  "genre": "hushed indie folk",
+  "rule": "The joke lives in the title, never in the Style field.",
+  "sets": [
+    {
+      "id": "v1",
+      "name": "Version 1"
+    }
+  ],
+  "tracks": [
+    {
+      "number": 1,
+      "title": "First Light, Unfortunately",
+      "slug": "first-light-unfortunately"
+    },
+    {
+      "number": 2,
+      "title": "The Gull Who Didn't Mean It",
+      "slug": "the-gull-who-didnt-mean-it"
+    }
+  ]
 }

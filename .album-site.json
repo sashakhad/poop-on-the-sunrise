@@ -1,0 +1,7 @@
+{
+  "siteUrl": null,
+  "project": "poop-on-the-sunrise",
+  "deploy": "git",
+  "kitSource": "https://github.com/sashakhad/album-kit",
+  "kitRevision": "bdb511c33fbf75804df0c0324873b282060e3f61"
+}
