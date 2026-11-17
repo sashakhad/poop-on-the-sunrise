@@ -1,5 +1,5 @@
 {
-  "siteUrl": null,
+  "siteUrl": "https://poop-on-the-sunrise.vercel.app",
   "project": "poop-on-the-sunrise",
   "deploy": "git",
   "kitSource": "https://github.com/sashakhad/album-kit",
